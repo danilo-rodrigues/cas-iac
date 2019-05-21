@@ -1,5 +1,5 @@
 name: Team9 # change the blueprint name to your team's name
-version: 5 # this version number should increase as you change your blueprint code
+version: 7 # this version number should increase as you change your blueprint code
 resources:
   Cloud_Machine_1:
     type: Cloud.Machine
