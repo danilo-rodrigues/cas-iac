@@ -9,7 +9,7 @@ resources:
       networks:
         - name: '${resource.Team9-NetworkProfile.name}' 
   Cloud_Network_1:
-    type: Cloud_Network
+    type: Cloud.Network
     properties:
       name: public
       networkType: existing
